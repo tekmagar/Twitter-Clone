@@ -23,12 +23,9 @@ Tech used :
  
 ## Screenshot. 
 
+![Screenshot 2022-10-19 195259](https://user-images.githubusercontent.com/111166538/196845549-fb7b43b0-df98-4579-beac-e0ae7259e85b.png)
 
 
-
-
-
-![Screenshot 2022-10-04 12 12 43 PM]())
 
 
 
